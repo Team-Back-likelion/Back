@@ -12,7 +12,6 @@ import java.util.Optional;
 @Service
 @RequiredArgsConstructor
 public class PostService {
-    //변경사항
     private final PostRepository postRepository;
 
     public Post createPost(Post post){

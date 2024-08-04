@@ -14,7 +14,6 @@ import java.time.LocalDateTime;
 @Getter @Setter
 @Entity
 public class Post {
-    //변경사항
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long post_id;
     private Long member_id;
