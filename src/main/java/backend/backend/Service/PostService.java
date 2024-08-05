@@ -1,7 +1,7 @@
-package backend.backend.post;
+package backend.backend.Service;
 
 import backend.backend.post.Post;
-import backend.backend.post.PostRepository;
+import backend.backend.repository.PostRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -31,7 +31,5 @@ public class PostService {
         }catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
         }
-
-
     }
 }

@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2908d97-aa0d-4f95-8967-fd94cf26ec62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/common/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/enums/MeetingCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/enums/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backend/backend/domain/mapping/MeetingMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/post/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/BackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/BackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backend/backend/post/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backend/backend/Service/PostService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +91,9 @@
     &quot;Gradle.Back.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/keh10/OneDrive/바탕 화면/study/Back&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/keh10/OneDrive/바탕 화면/작업용/build.gradle&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,

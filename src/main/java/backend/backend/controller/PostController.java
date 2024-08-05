@@ -1,5 +1,7 @@
-package backend.backend.post;
+package backend.backend.controller;
 
+import backend.backend.Service.PostService;
+import backend.backend.post.Post;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -9,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
 @Controller
 public class PostController {
 
-    private final PostRepository postRepository;
     private final PostService postService;
 
 
@@ -25,5 +26,4 @@ public class PostController {
     public ResponseEntity<Void> deletePost(@PathVariable Long id){
         return postService.deletePost(id);
     }
-
 }

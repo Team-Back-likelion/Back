@@ -1,4 +1,4 @@
-package backend.backend.post;
+package backend.backend.repository;
 
 import backend.backend.post.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
