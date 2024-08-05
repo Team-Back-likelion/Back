@@ -1,4 +1,8 @@
 package backend.backend.repository;
 
-public interface PostRepository {
+
+import backend.backend.post.Post;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PostRepository extends JpaRepository<Post, Long> {
 }

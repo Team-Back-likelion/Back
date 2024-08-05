@@ -7,7 +7,12 @@ plugins {
 
 group = 'backend'
 version = '0.0.1-SNAPSHOT'
+<<<<<<< HEAD
+//ddddsfdfjlljk
+//meme
+=======
 //ddddsf21414214
+>>>>>>> 7c7491c55b08ae5b7680917c830bc0c5e71ab942
 java {
 	toolchain {
 		languageVersion = JavaLanguageVersion.of(17)
